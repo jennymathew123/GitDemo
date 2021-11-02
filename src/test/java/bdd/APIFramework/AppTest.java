@@ -18,4 +18,10 @@ public class AppTest
         assertTrue( true );
         System.out.println("This is dummy class");
     }
+    @Test
+    public void test()
+    {
+        assertTrue( true );
+        System.out.println("This is test()");
+    }
 }
